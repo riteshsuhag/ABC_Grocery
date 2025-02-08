@@ -1,0 +1,10 @@
+pandas==1.1.3
+streamlit
+scikit-learn==0.23.2
+numpy==1.19.2
+joblib==0.17.0
+Pillow==8.0.1
+matplotlib==3.3.2
+tensorflow-cpu
+pillow-heif
+protobuf==3.20
